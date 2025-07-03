@@ -1,7 +1,3 @@
-Sure! Here’s a Flameshot Setup Guide in the format you requested:
-
----
-
 ## 📸 Flameshot Setup Guide
 
 ### ✅ What is Flameshot?
@@ -133,7 +129,3 @@ flameshot gui -u
 * Official GitHub: [https://github.com/flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
 * Arch Wiki: [Flameshot](https://wiki.archlinux.org/title/Flameshot)
 * Man page: `man flameshot`
-
----
-
-If you want, I can help you set up example i3 keybindings or scripts for Flameshot!
